@@ -1,0 +1,5 @@
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csprojAssemblyReference.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.pdb

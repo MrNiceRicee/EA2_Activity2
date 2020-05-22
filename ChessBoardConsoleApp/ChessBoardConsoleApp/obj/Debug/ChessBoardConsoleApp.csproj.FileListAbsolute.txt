@@ -1,0 +1,9 @@
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csprojAssemblyReference.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb
