@@ -1,0 +1,12 @@
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.exe.config
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardModel.dll
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardModel.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csprojAssemblyReference.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.Form1.resources
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.Properties.Resources.resources
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.GenerateResource.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.CopyComplete
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.pdb
