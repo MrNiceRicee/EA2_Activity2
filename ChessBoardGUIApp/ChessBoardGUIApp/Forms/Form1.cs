@@ -40,7 +40,42 @@ namespace ChessBoardGUIApp
 
                     btnGrid[r, c].Text = r + "," + c;
 
-                    btnGrid[r, c].Tag = r + "," + c;
+                    
+
+                    if (r%2==0)
+                    {
+                        if (c%2==0)
+                        {
+                            btnGrid[r, c].BackColor = Color.Black;
+                            btnGrid[r, c].ForeColor = Color.FromArgb(200,200,200);
+                        }
+                        else
+                        {
+                            btnGrid[r, c].BackColor = Color.White;
+                            btnGrid[r, c].ForeColor = Color.FromArgb(50, 50, 50);
+
+                        }
+                    }
+                    else
+                    {
+                        if (c % 2 == 0)
+                        {
+                            btnGrid[r, c].BackColor = Color.White;
+                            btnGrid[r, c].ForeColor = Color.FromArgb(50, 50, 50);
+
+
+                        }
+                        else
+                        {
+                            btnGrid[r, c].BackColor = Color.Black;
+                            btnGrid[r, c].ForeColor = Color.FromArgb(200, 200, 200);
+
+
+
+                        }
+                    }
+                    btnGrid[r, c].Tag = r + "," + c + "," + btnGrid[r,c].BackColor.A + "," + btnGrid[r, c].BackColor.R + "," + btnGrid[r, c].BackColor.G + "," + btnGrid[r, c].BackColor.B;
+                    Console.WriteLine(btnGrid[r, c].Tag.ToString());
                 }
             }
         }
@@ -48,28 +83,36 @@ namespace ChessBoardGUIApp
         private void Grid_Button_Click(object sender, EventArgs e)
         {
             string[] strArr = (sender as Button).Tag.ToString().Split(',');
-            int r = int.Parse(strArr[0]);
-            int c = int.Parse(strArr[1]);
+            int row = int.Parse(strArr[0]);
+            int col = int.Parse(strArr[1]);
+
+
             if (cb_ListPieces.SelectedIndex > -1) {
 
 
-                Cell currentCell = myBoard.theGrid[r, c];
+                Cell currentCell = myBoard.theGrid[row, col];
                 myBoard.MarkNextLegalMoves(currentCell, cb_ListPieces.SelectedItem.ToString());
 
-                for (int i = 0; i < myBoard.Size; i++)
+                for (int rx = 0; rx < myBoard.Size; rx++)
                 {
-                    for (int j = 0; j < myBoard.Size; j++)
+                    for (int cx = 0; cx < myBoard.Size; cx++)
                     {
-                        btnGrid[i, j].BackColor = default(Color);
+                        string[] setcolor = btnGrid[rx, cx].Tag.ToString().Split(',');
+                        int a = int.Parse(setcolor[2]);
+                        int r = int.Parse(setcolor[3]);
+                        int g = int.Parse(setcolor[4]);
+                        int b = int.Parse(setcolor[5]);
+                        btnGrid[rx, cx].BackColor = Color.FromArgb(a, r, g, b);
                     }
                 }
+
                 //set the background color of the clicked button to something
-                (sender as Button).BackColor = Color.Cornsilk;
+
                 updateButtonLabels();
             }
             else
             {
-                btnGrid[r, c].Text = "Select Mode";
+                btnGrid[row, col].Text = "Select Mode";
             }
         }
 
