@@ -39,7 +39,7 @@ namespace ChessBoardGUIApp
                     btnGrid[r, c].Location = new Point(buttonSize*r,buttonSize*c); //positioneed in xy based on r and c intervals by the size
 
                     btnGrid[r, c].Text = r + "," + c;
-
+                    btnGrid[r, c].FlatStyle = FlatStyle.Flat;
                     
 
                     if (r%2==0)

@@ -38,18 +38,20 @@
             // 
             this.lb_Hint.AutoSize = true;
             this.lb_Hint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lb_Hint.Location = new System.Drawing.Point(11, 9);
-            this.lb_Hint.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lb_Hint.ForeColor = System.Drawing.Color.White;
+            this.lb_Hint.Location = new System.Drawing.Point(15, 11);
             this.lb_Hint.Name = "lb_Hint";
-            this.lb_Hint.Size = new System.Drawing.Size(468, 15);
+            this.lb_Hint.Size = new System.Drawing.Size(545, 17);
             this.lb_Hint.TabIndex = 0;
             this.lb_Hint.Text = "Select a type of chess piece and then click on the grid. I will show you all lega" +
     "l moves.";
             // 
             // cb_ListPieces
             // 
+            this.cb_ListPieces.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(133)))), ((int)(((byte)(173)))));
             this.cb_ListPieces.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cb_ListPieces.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cb_ListPieces.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(249)))), ((int)(((byte)(235)))));
             this.cb_ListPieces.FormattingEnabled = true;
             this.cb_ListPieces.Items.AddRange(new object[] {
             "Bishop",
@@ -57,41 +59,42 @@
             "Knight",
             "Queen",
             "Rook"});
-            this.cb_ListPieces.Location = new System.Drawing.Point(456, 33);
-            this.cb_ListPieces.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cb_ListPieces.Location = new System.Drawing.Point(608, 41);
+            this.cb_ListPieces.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cb_ListPieces.Name = "cb_ListPieces";
-            this.cb_ListPieces.Size = new System.Drawing.Size(115, 21);
+            this.cb_ListPieces.Size = new System.Drawing.Size(152, 24);
             this.cb_ListPieces.TabIndex = 1;
             // 
             // pn_Grid
             // 
-            this.pn_Grid.Location = new System.Drawing.Point(9, 33);
-            this.pn_Grid.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pn_Grid.Location = new System.Drawing.Point(12, 41);
+            this.pn_Grid.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pn_Grid.Name = "pn_Grid";
-            this.pn_Grid.Size = new System.Drawing.Size(400, 400);
+            this.pn_Grid.Size = new System.Drawing.Size(533, 492);
             this.pn_Grid.TabIndex = 2;
             // 
             // lb_hint2
             // 
             this.lb_hint2.AutoSize = true;
             this.lb_hint2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lb_hint2.Location = new System.Drawing.Point(6, 447);
-            this.lb_hint2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lb_hint2.ForeColor = System.Drawing.Color.White;
+            this.lb_hint2.Location = new System.Drawing.Point(8, 550);
             this.lb_hint2.Name = "lb_hint2";
-            this.lb_hint2.Size = new System.Drawing.Size(277, 15);
+            this.lb_hint2.Size = new System.Drawing.Size(321, 17);
             this.lb_hint2.TabIndex = 3;
             this.lb_hint2.Text = "Grid will auto resize, go ahead and fix it if needed!";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(582, 553);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(30)))), ((int)(((byte)(41)))));
+            this.ClientSize = new System.Drawing.Size(776, 681);
             this.Controls.Add(this.lb_hint2);
             this.Controls.Add(this.pn_Grid);
             this.Controls.Add(this.cb_ListPieces);
             this.Controls.Add(this.lb_Hint);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResizeEnd += new System.EventHandler(this.Grid_SizeUpdate);
