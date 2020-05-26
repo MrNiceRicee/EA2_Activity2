@@ -1,0 +1,6 @@
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\EA_Activity2.2\EA_Activity2.2\bin\Debug\EA_Activity2.2.exe.config
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\EA_Activity2.2\EA_Activity2.2\bin\Debug\EA_Activity2.2.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\EA_Activity2.2\EA_Activity2.2\bin\Debug\EA_Activity2.2.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\EA_Activity2.2\EA_Activity2.2\obj\Debug\EA_Activity2.2.csprojAssemblyReference.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\EA_Activity2.2\EA_Activity2.2\obj\Debug\EA_Activity2.2.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity2\EA2_Activity2\EA_Activity2.2\EA_Activity2.2\obj\Debug\EA_Activity2.2.pdb
